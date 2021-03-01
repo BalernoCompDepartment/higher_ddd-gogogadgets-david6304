@@ -24,7 +24,7 @@ INSERT INTO Customer VALUES(69,"Zak","Carter","Craigs Farm","","Banchory","AB31 
 INSERT INTO Customer VALUES(125,"Tomasina","Matczak","27 School Street","","Stonehaven","AB39 2BF","TMatczak@warmmail.com");
 INSERT INTO Customer VALUES(48,"Sydel","Kennefick","71 Forrester Park","","Stonehaven","AB39 1FF","SKennefick@rovingmail.net");
 INSERT INTO Customer VALUES(456,"Lila","Temple","5 Ivy Way","","Stonehaven","AB39 9SG","LTemple@rovingmail.net");
-INSERT INTO Customer VALUES(23,"Mari","Singer","25 Eastside","Stoneheaven","Aberdeen","AB39 1WH","MSinger@hooya.com");
+INSERT INTO Customer VALUES(22,"Mari","Singer","25 Eastside","Stoneheaven","Aberdeen","AB39 1WH","MSinger@hooya.com");
 INSERT INTO Customer VALUES(657,"Nadya","Collins","88 Arduthie Place","Stonehaven","Aberdeenshire","AB39 3GN","NCollins@rovingmail.net");
 INSERT INTO Customer VALUES(8008,"Ariela","Edson","88 Arduthie Place","Stonehaven","Aberdeenshire","AB39 4GN","AEdson@eworld.co.uk");
 INSERT INTO Customer VALUES(22,"Berrie","Burke","7 Turin Road","Sobaren Alen","Aberdeenshire","AB41 5GH","BBurke@extralife.net");
