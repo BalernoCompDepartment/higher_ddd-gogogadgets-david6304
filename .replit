@@ -1,0 +1,1 @@
+run = "sqlite3 -init Main.sql"
