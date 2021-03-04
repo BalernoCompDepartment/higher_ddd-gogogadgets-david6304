@@ -126,3 +126,4 @@ AND CustOrder.orderNo = OrderItem.orderNo
 AND Item.itemID = OrderItem.itemID 
 GROUP BY CustOrder.orderNo 
 ORDER BY orderDate ASC, CustOrder.orderNo ASC;
+
